@@ -1,21 +1,21 @@
 [app/ui]
-version = 6.6.1
+version = 7.2.5
 modtime = 1496063164.429122000
 
 [app/launcher]
-version = 6.6.1
+version = 7.2.5
 modtime = 1496063164.431336000
 
 [outputs/tcpout%3Aautolb-default-group]
-version = 6.6.1
+version = 7.2.5
 modtime = 1496136302.780659000
 
 [outputs/tcpout%3Adefault-autolb-group]
-version = 6.6.3
+version = 7.2.5
 modtime = 1508350716.456402000
 
 [outputs/tcpout%3Amonkeybusiness]
-version = 6.6.3
+version = 7.2.5
 modtime = 1508351823.335965000
 
 [outputs/tcpout%3ASplunk]
